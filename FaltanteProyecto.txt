@@ -1,0 +1,6 @@
+-----------Pendiente-----------------
+
+Agregar Compras
+Agregar Ventas
+Agregar Devoluciones
+Agregar CreditoCliente
